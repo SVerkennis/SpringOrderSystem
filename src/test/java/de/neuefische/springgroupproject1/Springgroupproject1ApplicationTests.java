@@ -45,7 +45,7 @@ class Springgroupproject1ApplicationTests {
         assertEquals(4, products.length);
     }
 
-    @Test
+   /* @Test
     public void listOrdersShouldReturnAllOrders() {
         public void putStudentShouldAddStudentToDatabase() {
             //GIVEN
@@ -76,7 +76,7 @@ class Springgroupproject1ApplicationTests {
         //THEN
         assertEquals(HttpStatus.OK, statusCode);
         assertEquals(2, orders.length);
-    }
+    }*/
 
 
 }
